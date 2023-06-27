@@ -20,10 +20,4 @@ You may also choose to look at the following:
 
 ## Choosing a Language
 
-**C++** and **Java** are the most commonly used languages due to their 'speed' of execution, which is an important factor in competitive programming. You can also use other languages like **Python**
-
-Here's a short overview on both sides of the debate:
-
-1. **Speed**: C++ is certainly faster than Java but the difference isn't large enough to cause substantial issues unless the time constraints are really tight.
-2. **Functionalities**: Java provides certain in-built capabilities through which we can avoid writing complex code (for example - BigInteger Class). However, C++ posesses the superior Standard Template Library (STL) that allows you to easily implement simple and complex Data Structures and Algorithms.
-3. **Verbosity**: Java is more verbose and so it might take more time writing in Java code for simple programs.
+Set up C++ (preferably), Python or Java and any editor of your choice and you are good to go. You can find ample resources on how to do so on the internet.
