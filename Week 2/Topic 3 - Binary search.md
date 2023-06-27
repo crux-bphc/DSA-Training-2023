@@ -2,7 +2,7 @@
 Searching is a common problem asked in programming. The most naive way of performing searches would be linear search. Here, we introduce two faster searching algorithms - binary and ternary search.
 
 ## Binary Search
-Binary Search is used to  search in **sorted** values in logarithmic time. Here, by **sorted** we mean any sequence of elements which is **monotonically** increasing or decreasing. This is the most trivial use of binary search.
+Binary Search is used to search in **sorted** values in logarithmic time. Here, by **sorted** we mean any sequence of elements which is **monotonically** increasing or decreasing. This is the most trivial use of binary search.
 
 The real power of binary search is seen when one needs to search the answer to a problem. This is called **discrete binary search**. The general strcuture of the problem may look like the following:
 
