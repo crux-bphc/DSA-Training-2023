@@ -23,6 +23,14 @@ Try solving [this problem](https://codeforces.com/contest/1201/problem/C). You m
 * [Discrete binary search [B]](https://oldaddr.wordpress.com/2014/06/28/binary-search-the-answer/)
 * [Both [B]](https://www.topcoder.com/thrive/articles/Binary%20Search)
 
+### Problems
+* [Codeforces 706B](https://codeforces.com/problemset/problem/706/B)
+* [Codeforces 1187B](https://codeforces.com/contest/1187/problem/B)
+* [Codeforces 1208B](https://codeforces.com/contest/1208/problem/B)
+* [Codeforces 812C](https://codeforces.com/contest/812/problem/C)
+* [Codeforces 269B](https://codeforces.com/contest/269/problem/B)
+* [Codeforces 118D2](https://codeforces.com/contest/1118/problem/D2)
+
 ## Ternary Search
 Ternary Seach is used in specific situations when the given function has a **U or an inverted U shape** i.e has a **distinct minimum or maximum** over a given discrete valued range.
 The algorithm finds the **maxima/minima of the given function in logarithmic time**.

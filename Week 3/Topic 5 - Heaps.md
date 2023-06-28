@@ -17,3 +17,10 @@ A priority queue is a data structure, usually implemented using heaps, that supp
 * [Priority queue tutorial [B]](https://www.programiz.com/dsa/priority-queue)
 
 Free to use: [[C++](https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/)] [[Java](https://www.geeksforgeeks.org/priority-queue-class-in-java-2/)] [[Python](https://www.geeksforgeeks.org/heap-queue-or-heapq-in-python/)]
+
+#### Problems
+* [Interviewbit - k largest elements](https://www.interviewbit.com/problems/k-largest-elements/)
+* [Leetcode 703](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+* [Leetcode 1046](https://leetcode.com/problems/last-stone-weight/)
+* [Leetcode 1673](https://leetcode.com/problems/find-the-most-competitive-subsequence/)
+* [Atcoder ABC 141D](https://atcoder.jp/contests/abc141/tasks/abc141_d)

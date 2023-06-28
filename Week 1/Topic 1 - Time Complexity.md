@@ -11,6 +11,11 @@ Time complexity, in a crude sense, is the number of steps/operations your algori
 * [Time Complexity [V]](https://www.youtube.com/watch?v=V42FBiohc6c&list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn&fbclid=IwAR0kaAXKECS6iAP2kGUYf__X2j6_SS-c4yeq0dzjJvgBAyS8U-L4LBBwsPM)
 * [Time complexity in recursion [V]](https://www.youtube.com/watch?v=ncpTxqK35PI&fbclid=IwAR2a_OraRdPheSV0tDNcp5p10jswXgAHpYeowuZIMUjmB0ad0DBDnABdxxE)
 
+## Practice
+* [GFG](https://www.geeksforgeeks.org/practice-questions-time-complexity-analysis/)
+* [Codechef](https://discuss.codechef.com/t/multiple-choice-questions-related-to-testing-knowledge-about-time-and-space-complexity-of-a-program/17976)
+* [InterviewBit](https://www.interviewbit.com/courses/programming/topics/time-complexity/#problems)
+
 
 #### Some things to try/note/remember (some might start to make sense at a later point)
 * Try to find the time complexity and space complexity as you write code. With practice you will get better at it.

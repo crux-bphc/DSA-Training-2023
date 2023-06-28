@@ -25,4 +25,16 @@ You may look up general documentation or blogs about them, whichever you prefer.
     * `std::priority_queue` - *CPH Ch 4,* pg [44](https://cses.fi/book/book.pdf#page=54)
     * Policy-based data structures (not part of STL) - *CPH Ch 4,* pg [44](https://cses.fi/book/book.pdf#page=54)
 
-
+<details>
+<summary>Problems</summary>
+<ul>
+    <li><a href="https://hackerrank.com/domains/cpp/stl">Hackerrank STL</a></li>
+    <li><a href="https://www.hackerrank.com/domains/cpp?filters%5Bsubdomains%5D%5B%5D=stl">Hello world vector</a></li>
+    <li><a href="https://www.hackerrank.com/challenges/cpp-sets/problem">Hello world set</a></li>
+    <li><a href="https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/monk-and-his-friends/">Hackerearth - Monk and his Friends</a></li>
+    <li><a href="https://codeforces.com/contest/4/problem/C">CF 4 C</a></li>
+    <li><a href="https://codeforces.com/contest/525/problem/A">CF 525 A</a></li>
+    <li><a href="https://codeforces.com/contest/1520/problem/D">CF 1520 D</a></li>
+    <li><a href="https://codeforces.com/problemset/problem/782/A">CF 782 A</a></li>
+</ul>
+</details>

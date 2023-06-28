@@ -14,3 +14,10 @@ This `sort()` function works on arrays and vectors of all types. For an array `a
 To be more precise it can be invoked as `sort(a + l, a + r)` where `l` and `r` are some integers where `l < r`, `l >= 0` and `r <= size of the array` and will sort the elements in the range `[l, r)`. The invocation for a vector for the same functionality would be `sort(v.begin() + l, v.begin() + r)`.
 
 **Note**: We can even use the `sort()` function on strings in the same way as we use on vectors. For a string `s`, `sort(s.begin(), s.end())` would sort the characters of the string.
+
+### Problems
+* [Leetcode 242](https://leetcode.com/problems/valid-anagram/)
+* [Leetcode 1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
+* [CF 1041A](https://codeforces.com/contest/1041/problem/A)
+* [Hackerrank Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)
+* [CF 456A](https://codeforces.com/problemset/problem/456/A)

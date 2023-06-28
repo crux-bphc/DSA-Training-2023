@@ -10,3 +10,22 @@ A 'greedy' approach is one where a locally optimal choice leads to a globally op
 
 #### Resources
 * [Hackerearth [B]](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
+
+#### Problems
+* [Codeforces 1148A](https://codeforces.com/problemset/problem/1148/A)
+* [Codeforces 1077B](https://codeforces.com/problemset/problem/1077/B)
+* [Codeforces 1076A](https://codeforces.com/problemset/problem/1076/A)
+* [Leetcode 1221](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
+* [Leetcode 969](https://leetcode.com/problems/pancake-sorting/)
+
+<details>
+    <summary>Codeforces 1077B Hint</summary>
+    Most codeforces problems have editorials (explanations of solutions). You can find them on the bottom right, usually labelled 'Tutorial'. Read them if you are stuck.
+</details>
+
+[What is lexicographic order?](https://www.migenius.com/doc/realityserver/latest/resources/general/iray/api_reference/math/html/mi_def_lexicographic_order.html)
+
+<details>
+    <summary>Leetcode 1221 Hint</summary>
+    Think greedy :)
+</details>

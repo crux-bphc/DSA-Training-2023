@@ -34,3 +34,11 @@ Now that we know both the recursive and memoised solution, we can easily convert
 * [Video [V]](https://www.youtube.com/watch?v=xCbYmUPvc2Q)
 * [CPH [B]](https://cses.fi/book/book.pdf#page=82) (Ch 7 pg 72, Knapsack)
 * [HackerEarth](https://www.hackerearth.com/practice/notes/the-knapsack-problem/)
+
+## Problems
+* [Atcoder DP D](https://atcoder.jp/contests/dp/tasks/dp_d)
+* [Atcoder DP E](https://atcoder.jp/contests/dp/tasks/dp_e)
+
+### Challenging
+* [Codeforces 106C](https://codeforces.com/problemset/problem/106/C)
+* [Codeforces 730J](https://codeforces.com/problemset/problem/730/J)
